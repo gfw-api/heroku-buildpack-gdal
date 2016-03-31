@@ -1,6 +1,6 @@
 # heroku-buildpack-gdal
 
-I am a Heroku buildpack that installs [GDAL](http://www.gdal.org/) and its
+I am a Heroku buildpack that installs [GDAL](http://www.gdal.org/) 1.11.4 version and its
 dependencies ([proj](https://trac.osgeo.org/proj/)).
 
 When used by myself, I will install GDAL and proj libraries, headers, and
